@@ -18,7 +18,7 @@
 - 理由：よりエネルギッシュでクリック誘導を強化
 
 ## デモ
-https://shinarufort-blip.github.io/HabitFlow-portfolio/ （GitHub Pages）
+https://shinarufort-blip.github.io/habitflow-lp/ （GitHub Pages）
 
 ## ポートフォリオとしてのポイント
 - スナック池（飲食店温かみ系）と差別化してクールSaaS系に挑戦
